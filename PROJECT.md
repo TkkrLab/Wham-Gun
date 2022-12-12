@@ -34,13 +34,19 @@ So I unscrewed the kit gun, and clued in a piece of a pcb behind the trigger wit
 
 It was working, but needed some better sound, the speaker wasnt big enough to impress.
 
+![kit pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/speaker.jpg)
+*img for reference only
+
 After taking appart a desktop speaker(trash aswell), replacing the tiny inferior speaker with the superior larger one was easy enough with some soldering. 
 
 This did caused some issues… mainly power. The three internal the batteries had to be replaced with 3 larger aa battery’s. The chip starts playing when powered, which meant it started playing the first note, causing a voltage drop, which killed the chip.
 Then the battery’s would return to the usual voltage, and the chip would attempt to start playing again.
 Thi is a usefull feature if i ever want it to play when pressed, just have to rewire to power the chip through the button. Now it just plays the full 30 seconds without any way of turning it off.
 
+Ive attached a warning label which says "dont trigger me". although i am faily sure everyone is going to ignore it or do the exact oposite.
+
 # <a name="Wham-gun"></a>Presenting the Wham Gun
+![wham2 pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/wham2.jpg)
 Duck tape, and a few cauting of paint later in the colours of the north pole pole and.. WHAM.. the Wham gun was created.
 This thing you can just lay about the office and people will pick it up, “trigger it” and automatically lose the whamageddon.
 
@@ -54,3 +60,5 @@ I could pray paint it in different colours and record different melody’s. Like
 When going for the phase blast id suggest not attaching the button to the sensor area, but instead break the power. (the module plays when its powered). This way you can cut of phaser blasts and actually piew piew with it.
 
 Maybe 3d print a holder for the speaker, the duck tape is very ghetto.
+
+![wham3 pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/wham3.jpg)
