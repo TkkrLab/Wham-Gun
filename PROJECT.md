@@ -19,7 +19,7 @@ I was given this thing with the idea “I’t would be cool to have a flashlight
 Its a Kit gun wich you can hook up to a compressor.
 I had a different plan, as these are the things people tent play with, everytime they see one. Like bbq tongs, you gott test a cip them atleast once.
    
-# <a name="MakingOf"></a>So what did i make
+# <a name="So what did i make"></a>So what did i make
 I had these [sound recorder modules](https://nl.aliexpress.com/item/1005003658927111.html?spm=a2g0o.productlist.0.0.3478248fXX7tzK&algo_pvid=21bb5fcf-3228-4794-ac88-0e74952682be&algo_exp_id=21bb5fcf-3228-4794-ac88-0e74952682be-10&pdp_ext_f=%7B%22sku_id%22%3A%2212000026686214784%22%7D&pdp_npi=2%40dis%21EUR%212.86%212.01%21%21%211.58%21%21%402100bdd516708726743348067ece30%2112000026686214784%21sea&curPageLogUid=U1VgFa8LMkEk) laying around from Alie Express.
 
 ![kit pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/soundmodule.png)
@@ -45,7 +45,7 @@ Thi is a usefull feature if i ever want it to play when pressed, just have to re
 
 Ive attached a warning label which says "dont trigger me". although i am fairly certain everyone is going to ignore it or do the exact oposite.
 
-# <a name="Wham-gun"></a>Presenting the Wham Gun
+# <a name="Presenting the Wham Gun"></a>Presenting the Wham Gun
 ![wham2 pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/wham2.jpg)
 [see here on youtube](https://www.youtube.com/watch?v=3B-GtniuGxI)
 {{< youtubenc 3B-GtniuGxI >}}
@@ -54,7 +54,7 @@ The perfect trolling device you can just leave unattented around the office and 
 
 There is also no shutting it off and its extremely noisy. Can hear it from a next few rooms over.
 
-# <a name="improvements"></a>Future improvements
+# <a name="Future improvements"></a>Future improvements
 A cone might be nice  to increase gun – aim functionality. But for now I like it as is.
 
 I could pray paint it in different colours and record different songs. Like "never gonna give you up", or use it for sound effects like phaser blasts after december.
