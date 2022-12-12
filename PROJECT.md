@@ -13,14 +13,10 @@ thumbnail: ""
 
 # <a name="intro"></a>Introduction
 
-So abit of a backstory,
-One of our partners at our job(i create eletronic toys for a living) they have this weird rule which says, when stuff related to our products breaks it gets send to us. Why? I don’t know, but we got a box with “stuff”.
+I was given this thing with the idea “I’t would be cool to have a flashlight build into it”, like a Flash gun.
 
-Including a broken one of these
-
-Its a Kit gun wich you can hook up to a compressor
-
-I was given the thing with the idea “I’t would be cool to have a flashlight build into it”, like a Flash gun. I had a different plan, as these are the things people tent play with, everytime they see one. Like bbq tongs, you gott test a cip them atleast once.
+Its a Kit gun wich you can hook up to a compressor.
+I had a different plan, as these are the things people tent play with, everytime they see one. Like bbq tongs, you gott test a cip them atleast once.
    
 # <a name="MakingOf"></a>So what did i made
 I had these sound recording modules layout around from alie express.
