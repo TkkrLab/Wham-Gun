@@ -47,6 +47,7 @@ Ive attached a warning label which says "dont trigger me". although i am faily s
 
 # <a name="Wham-gun"></a>Presenting the Wham Gun
 ![wham2 pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/wham2.jpg)
+[see here on youtube](https://www.youtube.com/watch?v=3B-GtniuGxI)
 Duck tape, and a few cauting of paint later in the colours of the north pole pole and.. WHAM.. the Wham gun was created.
 This thing you can just lay about the office and people will pick it up, “trigger it” and automatically lose the whamageddon.
 
