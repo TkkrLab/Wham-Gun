@@ -41,7 +41,7 @@ After taking appart a desktop speaker(trash aswell), replacing the tiny inferior
 
 This did caused some issues… mainly power. The three internal the batteries had to be replaced with 3 larger aa battery’s. The chip starts playing when powered, which meant it started playing the first note, causing a voltage drop, which killed the chip.
 Then the battery’s would return to the usual voltage, and the chip would attempt to start playing again.
-Thi is a usefull feature if i ever want it to play when pressed, just have to rewire to power the chip through the button. Now it just plays the full 30 seconds without any way of turning it off.
+Thi is a usefull feature if i ever want it to play when pressed, just have to rewire to power the chip through the button. Now it just plays the full 30 seconds without any way of turning it off. #Features
 
 Ive attached a warning label which says "dont trigger me". although i am faily sure everyone is going to ignore it or do the exact oposite.
 
