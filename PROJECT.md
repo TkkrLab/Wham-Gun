@@ -1,7 +1,7 @@
  ---
 title: "TkkrLab wham-gun: A terrible invention for sure"
 date: 2022-12-12
-thumbnail: ""
+thumbnail: "https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/wham1.jpg"
 ---
 
 # Index
@@ -14,16 +14,21 @@ thumbnail: ""
 # <a name="intro"></a>Introduction
 
 I was given this thing with the idea “I’t would be cool to have a flashlight build into it”, like a Flash gun.
+![kit pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/kitpistal.jpg)
 
 Its a Kit gun wich you can hook up to a compressor.
 I had a different plan, as these are the things people tent play with, everytime they see one. Like bbq tongs, you gott test a cip them atleast once.
    
 # <a name="MakingOf"></a>So what did i made
-I had these sound recording modules layout around from alie express.
+I had these [sound recorder module](https://nl.aliexpress.com/item/1005003658927111.html?spm=a2g0o.productlist.0.0.3478248fXX7tzK&algo_pvid=21bb5fcf-3228-4794-ac88-0e74952682be&algo_exp_id=21bb5fcf-3228-4794-ac88-0e74952682be-10&pdp_ext_f=%7B%22sku_id%22%3A%2212000026686214784%22%7D&pdp_npi=2%40dis%21EUR%212.86%212.01%21%21%211.58%21%21%402100bdd516708726743348067ece30%2112000026686214784%21sea&curPageLogUid=U1VgFa8LMkEk) laying around from alie express.
+
+![kit pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/soundmodule.png)
+
 
 They are easy to modify, and even come pre-soldered with different component depending on whichever you needed.
 
 The one of my left has a Light sensor, but can be replaced with a button behavior. (bottom left)
+![kit pistol](https://raw.githubusercontent.com/TkkrLab/Wham-Gun/master/images/button.png)
 
 So I unscrewed the kit gun, and clued in a piece of a pcb behind the trigger with a push button and attached a wire between the button and the sound recorder.
 
